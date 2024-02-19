@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanAffeld
-- 👀 I’m interested in Data Science, Chemistry and Biology
-- 🌱 I’m currently a 12th grade student
+- 👀 I’m interested in Data Science, Math and Finance
+- 🌱 I’m currently a Freshman at Columbia University
 - 💞️ I’m looking to collaborate on a project that touches upon Matalab and Python
 - 📫 How to reach me jordan.affeld@gmail.com
 
