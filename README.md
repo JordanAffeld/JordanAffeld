@@ -1,4 +1,4 @@
-- I’m @JordanAffeld
+- I’m Jordan Affeld
 - Interested in Data Science, Math and Finance
 - Freshman @Columbia University
 
