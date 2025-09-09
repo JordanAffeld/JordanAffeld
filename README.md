@@ -1,6 +1,6 @@
 - I’m Jordan Affeld
 - Interested in Data Science, Math and Finance
-- Sophmore @Columbia University
+- Junior @Columbia University
 
 <!---
 JordanAffeld/JordanAffeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
